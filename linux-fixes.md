@@ -1,4 +1,9 @@
+# 📑 **Contents**
 
+- [🛠️ 2025-05-11 – Black Screen with Pointer After Login (Linux Mint + DisplayLink)](#️-2025-05-11--black-screen-with-pointer-after-login-linux-mint--displaylink)
+- [Template](#template)
+
+---
 # 🛠️ **2025-05-11 – Black Screen with Pointer After Login (Linux Mint + DisplayLink)**
 
 ## **Issue**
