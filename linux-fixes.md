@@ -4,6 +4,39 @@
 - [Template](#template)
 
 ---
+# **2025-05-14 – Cannot change monitor in Display app from 2560x1440 to 1920x1080**
+
+**Issue**  
+I get a black screen when the monitor is on resolution 2560x1440 because of DisplayLink, I cannot change the display resolution of 1 monitor to 1920x1080.
+
+**System Info**  
+- **Distro**: Linux Mint 22.1  
+- **Kernel**: 6.8.0-59-generic  
+- **Desktop**: Cinnamon  
+
+**Fix / Solution**
+    
+You can manually change the monitor resolution using the `xrandr` command:
+
+1. List all connected display outputs:
+
+    ```bash
+    xrandr
+    ```
+
+    Look for your monitor's identifier (e.g., `DVI-I-1-1`). It may vary.
+
+2. Change the resolution:
+
+    ```bash
+    xrandr --output DVI-I-1-1 --mode 1920x1080
+    ```
+
+    Replace `DVI-I-1-1` with the correct output name from step 1 if different.
+
+**Result**
+Screen changed to 1920x1080 resolution and screen worked after that
+
 # 🛠️ **2025-05-11 – Black Screen with Pointer After Login (Linux Mint + DisplayLink)**
 
 ## **Issue**
