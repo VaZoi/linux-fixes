@@ -1,5 +1,6 @@
 # 📑 **Contents**
 
+- [🛠️ 2025-05-14 – Cannot Change Monitor in Display App from 2560x1440 to 1920x1080](#️-2025-05-14--cannot-change-monitor-in-display-app-from-2560x1440-to-1920x1080)
 - [🛠️ 2025-05-11 – Black Screen with Pointer After Login (Linux Mint + DisplayLink)](#️-2025-05-11--black-screen-with-pointer-after-login-linux-mint--displaylink)
 - [Template](#template)
 
