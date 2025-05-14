@@ -5,7 +5,7 @@
 - [Template](#template)
 
 ---
-# **2025-05-14 – Cannot change monitor in Display app from 2560x1440 to 1920x1080**
+# 🛠️ 2025-05-14 – Cannot Change Monitor in Display App from 2560x1440 to 1920x1080
 
 **Issue**  
 I get a black screen when the monitor is on resolution 2560x1440 because of DisplayLink, I cannot change the display resolution of 1 monitor to 1920x1080.
